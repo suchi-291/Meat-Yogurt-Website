@@ -1,0 +1,50 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300; 
+    background: linear-gradient(to bottom right, #00F490,#00BBC9);
+}
+
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+
+}
+
+.drop-shadow{
+    text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.155);
+}
+
+.lead{
+    color: white;
+    font-size: 2.2rem;
+  
+}
+
+.btn-outline-light{
+  border-color: white;
+}
+
+.btn-outline-light:hover{
+    background-color: rgba(255, 255, 255, 0.207);
+    color: white;
+}
+
+.nav-link{
+ color: white;
+}
+
+.dropdown-menu{
+    color: white;
+
+}
+
+.btn-primary{
+    background-color: #00BBC9;
+    border-color: #00BBC9;
+
+}
+
+.btn-primary:hover {
+        background-color: #00f48e;
+        border-color: #00f48e ;
+}
